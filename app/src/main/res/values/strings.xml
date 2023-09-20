@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculo de interes</string>
+    <string name="tvTitulo">Calcular Interes</string>
+    <string name="etCapital">Introduzca la cantidad de dinero</string>
+    <string name="etInteres">Coloque el % de interes</string>
+    <string name="etDias">Coloque los dias</string>
+    <string name="btnCalcular">Calcular</string>
+</resources>
